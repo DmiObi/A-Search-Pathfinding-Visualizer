@@ -13,6 +13,6 @@ Every node has a reference to the node from where it was explored. The algorithm
 After that, the algorithm traverses through the node’s references, displaying the path on the screen. 
 
 # Project demonstration
-https://user-images.githubusercontent.com/89030598/129602410-44a00070-2719-47c5-b43a-eeeff93e868b.mov
+https://user-images.githubusercontent.com/89030598/129605466-2f7c4c36-d2ab-43fd-bcf1-2967d0a4d436.mov
 
 
