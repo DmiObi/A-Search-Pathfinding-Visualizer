@@ -4,7 +4,7 @@ Welcome to Pathfinding Visualizer! I finished this project when I was in my Seni
 learn more about the Java language. I hope you like it! 
 
 
-#About the project 
+# About the project 
 
 The overall purpose of my program is to find the shortest possible path between two points. The user may choose the positions for the starting point and ending 
 point on the grid as well as build walls or choose a randomly generated maze. In return, the program will display the shortest possible path on the screen. 
