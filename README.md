@@ -1,7 +1,3 @@
-
-
-https://user-images.githubusercontent.com/89030598/129605615-cd3aee93-0a39-4f0e-8464-118d32074f61.mov
-
 # Pathfinding Visualizer
 
 Welcome to Pathfinding Visualizer! I finished this project when I was in my Senior year of High School to improve my programming skills and 
