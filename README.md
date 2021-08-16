@@ -13,7 +13,7 @@ Then, the algorithm chooses the node that has the lowest traveling cost, and aga
 Every node has a reference to the node from where it was explored. The algorithm stops exploring nodes, once one of the nodes finds the ending node. 
 After that, the algorithm traverses through the node’s references, displaying the path on the screen. 
 
-# Maze creation
+# Maze is created with the "deep search" algorithm.
 https://user-images.githubusercontent.com/89030598/129602410-44a00070-2719-47c5-b43a-eeeff93e868b.mov
 
 
