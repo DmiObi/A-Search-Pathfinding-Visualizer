@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/89030598/129605615-cd3aee93-0a39-4f0e-8464-118d32074f61.mov
+
 # Pathfinding Visualizer
 
 Welcome to Pathfinding Visualizer! I finished this project when I was in my Senior year of High School to improve my programming skills and 
@@ -13,6 +17,6 @@ Every node has a reference to the node from where it was explored. The algorithm
 After that, the algorithm traverses through the node’s references, displaying the path on the screen. 
 
 # Project demonstration
-https://user-images.githubusercontent.com/89030598/129605466-2f7c4c36-d2ab-43fd-bcf1-2967d0a4d436.mov
+https://user-images.githubusercontent.com/89030598/129605637-89c4a722-c03a-4954-a79a-8d749fa7d3f2.mov
 
 
