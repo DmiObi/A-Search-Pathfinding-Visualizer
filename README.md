@@ -1,4 +1,4 @@
-Pathfinding Visualizer
+**Pathfinding Visualizer**
 
 Welcome to Pathfinding Visualizer! I finished this project when I was in my Senior year of High School to improve my programming skills and 
 learn more about the Java language. I hope you like it! 
