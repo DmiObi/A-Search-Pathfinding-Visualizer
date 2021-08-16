@@ -12,3 +12,9 @@ The “A-Search” algorithm is used in this program. The algorithm starts calcu
 Then, the algorithm chooses the node that has the lowest traveling cost, and again calculates the traveling costs for the nodes that surround that node. 
 Every node has a reference to the node from where it was explored. The algorithm stops exploring nodes, once one of the nodes finds the ending node. 
 After that, the algorithm traverses through the node’s references, displaying the path on the screen. 
+
+
+
+https://user-images.githubusercontent.com/89030598/129602410-44a00070-2719-47c5-b43a-eeeff93e868b.mov
+
+
